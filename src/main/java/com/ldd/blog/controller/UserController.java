@@ -26,5 +26,7 @@ public class UserController
 	public void setiUserDAO(IUserDAO iUserDAO)
 	{
 		this.iUserDAO = iUserDAO;
+
+		
 	}
 }
